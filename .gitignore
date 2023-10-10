@@ -1,0 +1,34 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+/.idea/
+
+/data/models/onnx/emotionrecognition/emotion-ferplus-8.onnx
+/data/models/onnx/facealignment/ultraface_320.onnx
+/data/images/angry_man1.png
+/data/images/angry_man1_input.png
+/data/images/angry_woman1.png
+/data/images/angry_woman1_input.png
+/data/images/disgusted_man1.png
+/data/images/disgusted_man1_input.png
+/data/images/disgusted_woman1.png
+/data/images/disgusted_woman1_input.png
+/data/images/feared_man1.png
+/data/images/feared_man1_input.png
+/data/images/feared_woman1.png
+/data/images/feared_woman1_input.png
+/data/images/happy_man1.png
+/data/images/happy_man1_input.png
+/data/images/happy_woman1.png
+/data/images/happy_woman1_input.png
+/data/images/sad_man1.png
+/data/images/sad_man1_input.png
+/data/images/sad_woman1.png
+/data/images/sad_woman1_input.png
+/data/images/surprised_man1.png
+/data/images/surprised_man1_input.png
+/data/images/surprised_woman1.png
+/data/images/surprised_woman1_input.png
